@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 README_WIP.md
+secret.py
+
 
 # C extensions
 *.so
@@ -98,3 +100,4 @@ ENV/
 
 # mypy
 .mypy_cache/
+flask-boilerplate
