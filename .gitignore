@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+README_WIP.md
 
 # C extensions
 *.so
